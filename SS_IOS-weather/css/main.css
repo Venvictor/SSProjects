@@ -1,0 +1,111 @@
+/* Base */
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: white;
+}
+
+
+/* Layout */
+.weather {
+  width: 320px;
+  height: 568px;
+  /* Original: 1008131436--background: url(../img/clear-skies.jpg) 0 0 no-repeat; */
+  background: url(../img/thunderstorm.jpg) 0 0 no-repeat;
+  margin: 100px auto;
+  border: 20px solid black;
+}
+
+.group {
+  padding: 15px;
+  /* border-bottom: 1px solid #b1dafa; */
+
+}
+
+/* Now */
+.now {
+  padding: 60px 0 30px 0;
+  text-align: center;
+}
+
+.now h1 {
+  font-size: 24px;
+  margin-bottom: 5px;
+}
+
+.now h2 {
+  font-size: 72px;
+}
+
+/*OBJ1A---This following code got the hi_lo degrees to stay on the right */
+.today header{
+  text-align: right}
+/*OBJ1B---and the "today" text on the left*/
+.today h3 {
+  float: left}
+
+.hour {float: left;
+        width: 50px;
+        margin: auto;
+        padding: 3px;
+        text-align: center;}
+/*
+BRKTHRU1---So it turns out that .hour works but not .hours.group...
+
+        .hours.group {float: left;
+        width: 50px;
+        text-align:center;}
+
+...if one utilizes the base class instead of the group class
+one could individualize/compartmentalize html text.
+ps. Dont forget to thank kate w. for the guiding the way.
+BRKTHRUend
+*/
+
+.hour h4 {margin-bottom:30px;}
+.week.group {clear: both;}
+
+/*
+OBJ2A
+Inserted Weather Graphics based upon .hour classes
+*/
+.hour.cloudy {
+  background: url(../img/icon_cloudy.png) center center no-repeat;
+}
+.hour {
+  background: url(../img/icon_sunny.png) center center no-repeat;
+}
+.hour.rain {
+  background: url(../img/icon_rain.png) center center no-repeat;
+}
+
+/*
+OBJ3A
+Inserted Weather Graphics based upon "day" classes
+*/
+.day {
+  background: url(../img/icon_sunny.png) center right no-repeat;
+  margin-bottom: 10px;
+  padding: 8px 35px 8px 8px;
+/*
+BRKTHRU2---
+Had the hardest time getting the hi/lo for the class "day" to be
+properly set on the right side without overlapping the png.
+Gave up utilizing some .clear techniques and just utilized the "padding"
+to manipulate to hack the correct location.
+*/
+  text-align: right;
+  clear: both;
+}
+.day.cloudy {
+  background: url(../img/icon_cloudy.png) center right no-repeat;
+clear: both}
+.day.rain {
+  background: url(../img/icon_rain.png) center right no-repeat;
+clear: both}
+
+.day h4 {
+  float: left;
+  clear: both;}
+
+
