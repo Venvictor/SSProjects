@@ -1,0 +1,115 @@
+DomainName	CodeValue	CodeDescription
+CatgofServiceCd                                   	          	                                                                                                    
+CatgofServiceCd                                   	000       	N/A                                                                                                 
+CatgofServiceCd                                   	001       	Physician Services                                                                                  
+CatgofServiceCd                                   	002       	Dental Services                                                                                     
+CatgofServiceCd                                   	003       	Optometric Services                                                                                 
+CatgofServiceCd                                   	004       	Podiatric Services                                                                                  
+CatgofServiceCd                                   	005       	Chiropractic Services                                                                               
+CatgofServiceCd                                   	006       	Physicians Psychiatric Services                                                                     
+CatgofServiceCd                                   	007       	Development Therapy, Orientation and Mobility Services (Waivers)                                    
+CatgofServiceCd                                   	008       	DSCC Counseling/Fragile Children                                                                    
+CatgofServiceCd                                   	009       	DCFS Rehab Option Services                                                                          
+CatgofServiceCd                                   	010       	Nursing service                                                                                     
+CatgofServiceCd                                   	011       	Physical Therapy Services                                                                           
+CatgofServiceCd                                   	012       	Occupational Therapy Services                                                                       
+CatgofServiceCd                                   	013       	Speech Therapy/Pathology Services                                                                   
+CatgofServiceCd                                   	014       	Audiology Services                                                                                  
+CatgofServiceCd                                   	015       	Sitter Services                                                                                     
+CatgofServiceCd                                   	016       	Home Health Aides                                                                                   
+CatgofServiceCd                                   	017       	Anesthesia Services                                                                                 
+CatgofServiceCd                                   	018       	Midwife Services                                                                                    
+CatgofServiceCd                                   	019       	Genetic Counseling                                                                                  
+CatgofServiceCd                                   	020       	Inpatient Hospital Services (General)                                                               
+CatgofServiceCd                                   	021       	Inpatient Hospital Services (Psychiatric)                                                           
+CatgofServiceCd                                   	022       	Inpatient Hospital Services (Physical Rehabilitation)                                               
+CatgofServiceCd                                   	023       	Inpatient Hospital Services (ESRD)                                                                  
+CatgofServiceCd                                   	024       	Outpatient Services (General)                                                                       
+CatgofServiceCd                                   	025       	Outpatient Services (ESRD)                                                                          
+CatgofServiceCd                                   	026       	General Clinic Services                                                                             
+CatgofServiceCd                                   	027       	Psychiatric Clinic Services (Type 'A')                                                              
+CatgofServiceCd                                   	028       	Psychiatric Clinic Services (Type 'B')                                                              
+CatgofServiceCd                                   	029       	Clinic Services (Physical Rehabilitation)                                                           
+CatgofServiceCd                                   	030       	Healthy Kids Services                                                                               
+CatgofServiceCd                                   	031       	Early Intervention Services                                                                         
+CatgofServiceCd                                   	032       	Environmental modifications (waiver)                                                                
+CatgofServiceCd                                   	033       	Mental Health Clinic Option Services                                                                
+CatgofServiceCd                                   	034       	Mental Health Rehab Option Services                                                                 
+CatgofServiceCd                                   	035       	Alcohol and Substance Abuse Rehab. Services                                                         
+CatgofServiceCd                                   	036       	Juvenile Rehabilitation                                                                             
+CatgofServiceCd                                   	037       	Skilled Care - Hospital Residing                                                                    
+CatgofServiceCd                                   	038       	Exceptional Care                                                                                    
+CatgofServiceCd                                   	039       	DD/MI Non-Acute Care - Hospital Residing                                                            
+CatgofServiceCd                                   	040       	Pharmacy Services (Drug and OTC)                                                                    
+CatgofServiceCd                                   	041       	Medical equipment/prosthetic devices                                                                
+CatgofServiceCd                                   	042       	Family planning service                                                                             
+CatgofServiceCd                                   	043       	Clinical Laboratory Services                                                                        
+CatgofServiceCd                                   	044       	Portable X-Ray Services                                                                             
+CatgofServiceCd                                   	045       	Optical Supplies                                                                                    
+CatgofServiceCd                                   	046       	Psychiatric Drugs                                                                                   
+CatgofServiceCd                                   	047       	Targeted case management service (mental health)                                                    
+CatgofServiceCd                                   	048       	Medical Supplies                                                                                    
+CatgofServiceCd                                   	049       	DCFS Targeted Case Management Services                                                              
+CatgofServiceCd                                   	050       	Emergency Ambulance Transportation                                                                  
+CatgofServiceCd                                   	051       	Non-Emergency Ambulance Transportation                                                              
+CatgofServiceCd                                   	052       	Medicar Transportation                                                                              
+CatgofServiceCd                                   	053       	Taxicab Services                                                                                    
+CatgofServiceCd                                   	054       	Service Car                                                                                         
+CatgofServiceCd                                   	055       	Auto transportation (private)                                                                       
+CatgofServiceCd                                   	056       	Other Transportation                                                                                
+CatgofServiceCd                                   	057       	Nurse Practitioners Services                                                                        
+CatgofServiceCd                                   	058       	Social work service                                                                                 
+CatgofServiceCd                                   	059       	Psychologist service                                                                                
+CatgofServiceCd                                   	060       	Home Care                                                                                           
+CatgofServiceCd                                   	061       	General Inpatient                                                                                   
+CatgofServiceCd                                   	062       	Continuous Care Nursing                                                                             
+CatgofServiceCd                                   	063       	Respite Care                                                                                        
+CatgofServiceCd                                   	064       	Other Behavioral Health Services                                                                    
+CatgofServiceCd                                   	065       	LTC Full Medicare Coverage                                                                          
+CatgofServiceCd                                   	066       	Home Health Services                                                                                
+CatgofServiceCd                                   	067       	All Kids application agent (valid on provider file only)                                            
+CatgofServiceCd                                   	068       	Targeted case management service (early intervention)                                               
+CatgofServiceCd                                   	069       	Subacute Care Program                                                                               
+CatgofServiceCd                                   	070       	LTC - Skilled                                                                                       
+CatgofServiceCd                                   	071       	LTC - Intermediate                                                                                  
+CatgofServiceCd                                   	072       	LTC--NF skilled (partial Medicare coverage)                                                         
+CatgofServiceCd                                   	073       	LTC--ICF/MR                                                                                         
+CatgofServiceCd                                   	074       	LTC--ICF/MR skilled pediatric                                                                       
+CatgofServiceCd                                   	075       	LTC - MI Recipient age 22-64                                                                        
+CatgofServiceCd                                   	076       	LTC - Specialized Living Center - Intermediate MR                                                   
+CatgofServiceCd                                   	077       	SOPF--MI recipient over 64 years of age                                                             
+CatgofServiceCd                                   	078       	SOPF--MI recipient under 22 years of age                                                            
+CatgofServiceCd                                   	079       	SOPF--MI recipient non-matchable                                                                    
+CatgofServiceCd                                   	080       	Rehabilitation option service (special LEA service)                                                 
+CatgofServiceCd                                   	081       	Capitation Services                                                                                 
+CatgofServiceCd                                   	082       	LTC--Developmental training (level I)                                                               
+CatgofServiceCd                                   	083       	LTC--Developmental training (level II)                                                              
+CatgofServiceCd                                   	084       	LTC--Developmental training (level III)                                                             
+CatgofServiceCd                                   	085       	LTC - Recipient 22-64 in IMD not MI or MR                                                           
+CatgofServiceCd                                   	086       	LTC SLF Dementia Care                                                                               
+CatgofServiceCd                                   	087       	LTC - Supportive Living Facility (Waivers)                                                          
+CatgofServiceCd                                   	088       	LTC - MR Recipient between ages 21-65                                                               
+CatgofServiceCd                                   	089       	LTC - MR Recipient - Inappropriately Placed                                                         
+CatgofServiceCd                                   	090       	Case Management                                                                                     
+CatgofServiceCd                                   	091       	Homemaker                                                                                           
+CatgofServiceCd                                   	092       	Waiver service (depends on HCPCS code)                                                              
+CatgofServiceCd                                   	093       	Waiver service (depends on HCPCS code)                                                              
+CatgofServiceCd                                   	094       	Waiver service (depends on HCPCS code)                                                              
+CatgofServiceCd                                   	095       	Waiver service (depends on HCPCS code)                                                              
+CatgofServiceCd                                   	096       	Waiver service (depends on HCPCS code)                                                              
+CatgofServiceCd                                   	097       	Waiver service (depends on HCPCS code)                                                              
+CatgofServiceCd                                   	098       	Electronic Home Response/EHR Installation(MARS), MPE Certification(Provider)                        
+CatgofServiceCd                                   	099       	Reserved for programming use only                                                                   
+CatgofServiceCd                                   	100       	Genetic counseling                                                                                  
+CatgofServiceCd                                   	101       	Independent Diagnostic Testing.                                                                     
+CatgofServiceCd                                   	102       	Fluoride varnish                                                                                    
+CatgofServiceCd                                   	103       	Family Planning Counseling                                                                          
+CatgofServiceCd                                   	104       	FFS procedure to implement contraceptive devices for PT 040, 048.                                   
+CatgofServiceCd                                   	777       	Provider is enrolled with HFS as a ordering, rendering, or referring physician/practitioner. This is
+CatgofServiceCd                                   	986       	LTC--MI recipient between ages 21 and 65                                                            
+CatgofServiceCd                                   	CS        	Counseling for medically fragile children                                                           
+CatgofServiceCd                                   	EA        	Utilities                                                                                           
+CatgofServiceCd                                   	EM        	Access to home or vehicle                                                                           
+CatgofServiceCd                                   	ES        	Extermination Services                                                                              
+CatgofServiceCd                                   	FT        	Family training                                                                                     
+CatgofServiceCd                                   	ME        	Specialized medical equipment/supplies                                                              

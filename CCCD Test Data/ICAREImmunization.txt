@@ -1,0 +1,196 @@
+3000000502009-01-04      1417Influenza SPLIT                                   
+3000000632012-06-12      1462Pneumococcal PCV13                                
+3000000262006-11-08        57IPV                                               
+3000000172010-12-13      1326BOOSTRIX                                          
+3000000372010-09-04      1461Prevnar 13                                        
+3000000552006-11-22      1442DTaP, unspecified formulation                     
+3000000392012-03-14      1689Meningococcal MCV4O                               
+3000000132007-07-19        63Varicella                                         
+3000000432011-01-21        63Varicella                                         
+3000000272011-06-28        56Hib, unspecified formulation                      
+3000000482010-07-11      1214HBV PED/ADOL                                      
+3000000502008-12-01        82Prevnar 7                                         
+3000000632010-11-14        49DTaP                                              
+3000000262006-11-08      1214HBV PED/ADOL                                      
+3000000172007-10-04        63Varicella                                         
+3000000372013-06-12        63Varicella                                         
+3000000552010-10-16        44MMR                                               
+3000000392011-03-19      1326BOOSTRIX                                          
+3000000432011-01-21      1417Influenza SPLIT                                   
+3000000272011-06-28        82Prevnar 7                                         
+3000000482010-07-11      1377Pentacel                                          
+3000000502008-12-01      1241HAV PED, unspecified formulation                  
+3000000632010-11-14        56Hib, unspecified formulation                      
+3000000262006-09-01      1214HBV PED/ADOL                                      
+3000000172007-11-04        63Varicella                                         
+3000000372011-04-25      1126Flu Ped 6-35, IM                                  
+3000000552010-10-16        63Varicella                                         
+3000000432011-01-22        44MMR                                               
+3000000272011-06-28      1430ROTATEQ                                           
+3000000482011-12-31        44MMR                                               
+3000000502008-12-01      1417Influenza SPLIT                                   
+3000000632010-11-14        57IPV                                               
+3000000262012-10-07        49DTaP                                              
+3000000172010-12-13      1241HAV PED, unspecified formulation                  
+3000000372011-04-25      1417Influenza SPLIT                                   
+3000000552010-10-16      1378Kinrix                                            
+3000000432011-01-22      1241HAV PED, unspecified formulation                  
+3000000272011-11-06      1461Prevnar 13                                        
+3000000482011-12-31        49DTaP                                              
+3000000502007-12-02        49DTaP                                              
+3000000632010-11-14      1214HBV PED/ADOL                                      
+3000000262007-01-17        49DTaP                                              
+3000000172010-12-13      1222Meningococcal Polysaccharide                      
+3000000372009-11-24        82Prevnar 7                                         
+3000000552011-01-09      1417Influenza SPLIT                                   
+3000000432011-01-22      1321ProQuad                                           
+3000000272011-10-23      1214HBV PED/ADOL                                      
+3000000482011-12-31        63Varicella                                         
+3000000502007-12-02        56Hib, unspecified formulation                      
+3000000632010-11-14      1430ROTATEQ                                           
+3000000262007-01-17        56Hib, unspecified formulation                      
+3000000372009-11-24       721Pediarix                                          
+3000000552007-09-26       803HAV, unspecified formulation                      
+3000000432010-10-06        49DTaP                                              
+3000000272011-10-23      1409DTaP-HIB-IPV                                      
+3000000482011-12-31      1413Flu >3 yrs, IM                                    
+3000000502007-12-02        57IPV                                               
+3000000632011-01-16        49DTaP                                              
+3000000262007-01-17        81Pneumococcal PCV7                                 
+3000000372009-11-24      1214HBV PED/ADOL                                      
+3000000552006-11-22        63Varicella                                         
+3000000432010-10-06        50DTP                                               
+3000000272011-10-23      1430ROTATEQ                                           
+3000000482010-04-18      1295Influenza unspecified formulation                 
+3000000502007-12-02      1214HBV PED/ADOL                                      
+3000000632011-01-16        56Hib, unspecified formulation                      
+3000000262007-01-17      1214HBV PED/ADOL                                      
+3000000372009-11-24      1430ROTATEQ                                           
+3000000552006-11-22        56Hib, unspecified formulation                      
+3000000432010-10-06        56Hib, unspecified formulation                      
+3000000272011-04-21      1214HBV PED/ADOL                                      
+3000000482011-12-31        57IPV                                               
+3000000502007-12-02      1432Rotavirus, Oral                                   
+3000000632011-01-16        57IPV                                               
+3000000262009-11-29      1417Influenza SPLIT                                   
+3000000372010-06-12        44MMR                                               
+3000000432010-10-06        57IPV                                               
+3000000272011-08-29        49DTaP                                              
+3000000482010-07-11      1241HAV PED, unspecified formulation                  
+3000000502009-06-02        63Varicella                                         
+3000000632011-01-16        82Prevnar 7                                         
+3000000262006-11-17        57IPV                                               
+3000000372010-06-12        63Varicella                                         
+3000000432010-10-06        82Prevnar 7                                         
+3000000272011-08-29        56Hib, unspecified formulation                      
+3000000482010-07-11        82Prevnar 7                                         
+3000000502007-09-04        49DTaP                                              
+3000000632011-01-16      1214HBV PED/ADOL                                      
+3000000262011-08-08        44MMR                                               
+3000000372010-06-12      1241HAV PED, unspecified formulation                  
+3000000432010-10-06      1214HBV PED/ADOL                                      
+3000000272011-08-29        57IPV                                               
+3000000482010-07-11        63Varicella                                         
+3000000502007-09-04        57IPV                                               
+3000000632010-11-14        82Prevnar 7                                         
+3000000262007-03-21        49DTaP                                              
+3000000372011-12-18      1337Influenza LIVE                                    
+3000000432010-10-06      1430ROTATEQ                                           
+3000000272011-08-29      1430ROTATEQ                                           
+3000000502007-09-04        82Prevnar 7                                         
+3000000632010-09-15      1214HBV PED/ADOL                                      
+3000000262007-03-21        56Hib, unspecified formulation                      
+3000000372010-12-04        82Prevnar 7                                         
+3000000432010-03-24        49DTaP                                              
+3000000272011-06-21      1409DTaP-HIB-IPV                                      
+3000000502007-09-04      1214HBV PED/ADOL                                      
+3000000632012-06-12      1233Hib (PRP-OMP)                                     
+3000000262007-03-21        57IPV                                               
+3000000372010-12-04      1126Flu Ped 6-35, IM                                  
+3000000432010-03-24        56Hib, unspecified formulation                      
+3000000272011-06-21      1461Prevnar 13                                        
+3000000502007-10-13        49DTaP                                              
+3000000632012-06-12       801DTaP-HBV-IPV                                      
+3000000262007-03-21        82Prevnar 7                                         
+3000000372010-12-04      1417Influenza SPLIT                                   
+3000000432010-03-24        57IPV                                               
+3000000272012-04-23        44MMR                                               
+3000000502007-10-13        56Hib, unspecified formulation                      
+3000000262007-03-21      1214HBV PED/ADOL                                      
+3000000372010-12-04      1461Prevnar 13                                        
+3000000432010-03-24        82Prevnar 7                                         
+3000000272012-04-23        49DTaP                                              
+3000000502007-10-13        57IPV                                               
+3000000262007-09-05        44MMR                                               
+3000000372010-01-05        56Hib, unspecified formulation                      
+3000000432010-03-24      1214HBV PED/ADOL                                      
+3000000272012-04-23        63Varicella                                         
+3000000502007-10-13        82Prevnar 7                                         
+3000000262007-09-05        63Varicella                                         
+3000000372010-01-05        82Prevnar 7                                         
+3000000432010-03-24      1430ROTATEQ                                           
+3000000272012-04-23      1232Hib (PRP-T)                                       
+3000000502007-12-04        49DTaP                                              
+3000000262007-09-05      1241HAV PED, unspecified formulation                  
+3000000372010-01-05       721Pediarix                                          
+3000000432010-06-08        49DTaP                                              
+3000000272012-04-23      1296HAV PED/ADOL 2 dose                               
+3000000502007-12-04        56Hib, unspecified formulation                      
+3000000262011-08-08        63Varicella                                         
+3000000372010-01-05      1295Influenza unspecified formulation                 
+3000000432010-06-08        56Hib, unspecified formulation                      
+3000000272012-04-23      1462Pneumococcal PCV13                                
+3000000502007-12-04        57IPV                                               
+3000000262012-10-07        57IPV                                               
+3000000372010-01-05      1379Rotarix                                           
+3000000432010-06-08        82Prevnar 7                                         
+3000000272012-07-30      1296HAV PED/ADOL 2 dose                               
+3000000502007-12-04        82Prevnar 7                                         
+3000000262006-11-08        81Pneumococcal PCV7                                 
+3000000372011-06-11        49DTaP                                              
+3000000432010-06-08      1229HBV, unspecified formulation                      
+3000000272011-08-29        82Prevnar 7                                         
+3000000502008-06-04        44MMR                                               
+3000000262006-11-08        56Hib, unspecified formulation                      
+3000000372011-06-11      1241HAV PED, unspecified formulation                  
+3000000432010-06-08      1265Polio, unspecified formulation                    
+3000000272011-10-23      1126Flu Ped 6-35, IM                                  
+3000000502008-06-04        63Varicella                                         
+3000000262006-11-08        49DTaP                                              
+3000000372009-08-10        56Hib, unspecified formulation                      
+3000000432010-06-08      1398Rotavirus, unspecified formulation                
+3000000272011-06-28        57IPV                                               
+3000000502008-06-04      1241HAV PED, unspecified formulation                  
+3000000372009-08-10        82Prevnar 7                                         
+3000000432010-06-08      1430ROTATEQ                                           
+3000000272011-06-28        49DTaP                                              
+3000000502011-03-05      1241HAV PED, unspecified formulation                  
+3000000372009-08-10       721Pediarix                                          
+3000000432010-06-08      1442DTaP, unspecified formulation                     
+3000000272011-05-22      1214HBV PED/ADOL                                      
+3000000502007-09-04        56Hib, unspecified formulation                      
+3000000372009-08-10      1430ROTATEQ                                           
+3000000432011-12-08        44MMR                                               
+3000000502009-11-29      1295Influenza unspecified formulation                 
+3000000372009-06-05      1214HBV PED/ADOL                                      
+3000000432011-12-08        49DTaP                                              
+3000000502008-12-01        56Hib, unspecified formulation                      
+3000000372009-08-10      1214HBV PED/ADOL                                      
+3000000432011-12-08        56Hib, unspecified formulation                      
+3000000502009-01-04      1295Influenza unspecified formulation                 
+3000000372013-07-12        44MMR                                               
+3000000432011-12-08        57IPV                                               
+3000000502009-01-04        49DTaP                                              
+3000000372009-11-24        56Hib, unspecified formulation                      
+3000000432011-12-08      1126Flu Ped 6-35, IM                                  
+3000000372013-06-12        57IPV                                               
+3000000432011-12-08      1296HAV PED/ADOL 2 dose                               
+3000000372010-09-04      1377Pentacel                                          
+3000000432011-12-08      1462Pneumococcal PCV13                                
+3000000372010-09-04        82Prevnar 7                                         
+3000000432010-06-08      1462Pneumococcal PCV13                                
+3000000432010-10-06      1377Pentacel                                          
+3000000432011-01-22      1295Influenza unspecified formulation                 
+3000000432011-01-21      1241HAV PED, unspecified formulation                  
+3000000432011-01-21        44MMR                                               
+3000000432010-01-20      1214HBV PED/ADOL                                      
