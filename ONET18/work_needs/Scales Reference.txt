@@ -1,0 +1,2 @@
+Scale ID	Scale Name	Minimum	Maximum
+EN	Extent	1	5
